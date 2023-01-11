@@ -1,12 +1,12 @@
 # Afg
 
-#git clone https://github.com/zeasahil107/Afg
+# git clone https://github.com/zeasahil107/Afg
 
 
 
-#cd Afg
+# cd Afg
 
 
 
 
-#python Afg.py
+# python Afg.py
